@@ -1,1 +1,1 @@
-# Clustering and annotation for neurons
+# Clustering and annotation for scRNA data (all cells & neurons)
